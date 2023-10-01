@@ -1,0 +1,60 @@
+2023-09-27 18:18:28 INFO ====== WebDriver manager ======
+2023-09-27 18:18:29 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:29 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:29 INFO There is no [win64] chromedriver "117.0.5938.92" for browser google-chrome "117.0.5938.92" in cache
+2023-09-27 18:18:29 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:29 INFO WebDriver version 117.0.5938.92 selected
+2023-09-27 18:18:29 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-09-27 18:18:29 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-09-27 18:18:29 INFO Driver downloading response is 200
+2023-09-27 18:18:30 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:30 INFO Driver has been saved in cache [C:\Users\Дмитрий\.wdm\drivers\chromedriver\win64\117.0.5938.92]
+2023-09-27 18:18:31 INFO Test2 Starting
+2023-09-27 18:18:33 INFO Send SemDevTools to element //*[@id="login"]/div[1]/label/input
+2023-09-27 18:18:33 INFO Send 860f2c1b77 to element //*[@id="login"]/div[2]/label/input
+2023-09-27 18:18:33 INFO Click login button
+2023-09-27 18:18:33 INFO Click "contact" link
+2023-09-27 18:18:37 INFO Send Ivanov_Dmitriy to element //*[@id="contact"]/div[1]/label/input
+2023-09-27 18:18:37 INFO Send ivanov-d@mail.ru to element //*[@id="contact"]/div[2]/label/input
+2023-09-27 18:18:37 INFO Send some text about my thoughts to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-09-27 18:18:37 INFO Click "CONTACT US" button
+2023-09-27 18:18:39 INFO We find text Form successfully submitted in title alert on site "Contact Us"
+2023-09-27 18:18:45 INFO ====== WebDriver manager ======
+2023-09-27 18:18:45 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:45 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:45 INFO There is no [win64] chromedriver "117.0.5938.92" for browser google-chrome "117.0.5938.92" in cache
+2023-09-27 18:18:45 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:45 INFO WebDriver version 117.0.5938.92 selected
+2023-09-27 18:18:45 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-09-27 18:18:45 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-09-27 18:18:46 INFO Driver downloading response is 200
+2023-09-27 18:18:47 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:47 INFO Driver has been saved in cache [C:\Users\Дмитрий\.wdm\drivers\chromedriver\win64\117.0.5938.92]
+2023-09-27 18:18:48 INFO Test2 Starting
+2023-09-27 18:18:48 INFO Send SemDevTools to element //*[@id="login"]/div[1]/label/input
+2023-09-27 18:18:48 INFO Send 860f2c1b77 to element //*[@id="login"]/div[2]/label/input
+2023-09-27 18:18:49 INFO Click login button
+2023-09-27 18:18:49 INFO Click "contact" link
+2023-09-27 18:18:52 INFO Click "CONTACT US" button
+2023-09-27 18:18:54 INFO We find text Form successfully submitted in title alert on site "Contact Us"
+2023-09-27 18:18:56 INFO ====== WebDriver manager ======
+2023-09-27 18:18:57 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:57 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:57 INFO There is no [win64] chromedriver "117.0.5938.92" for browser google-chrome "117.0.5938.92" in cache
+2023-09-27 18:18:57 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:57 INFO WebDriver version 117.0.5938.92 selected
+2023-09-27 18:18:57 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-09-27 18:18:57 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/win32/chromedriver-win32.zip
+2023-09-27 18:18:57 INFO Driver downloading response is 200
+2023-09-27 18:18:58 INFO Get LATEST chromedriver version for google-chrome
+2023-09-27 18:18:58 INFO Driver has been saved in cache [C:\Users\Дмитрий\.wdm\drivers\chromedriver\win64\117.0.5938.92]
+2023-09-27 18:18:59 INFO Test2 Starting
+2023-09-27 18:19:00 INFO Send SemDevTools to element //*[@id="login"]/div[1]/label/input
+2023-09-27 18:19:00 INFO Send 860f2c1b77 to element //*[@id="login"]/div[2]/label/input
+2023-09-27 18:19:00 INFO Click login button
+2023-09-27 18:19:00 INFO Click "contact" link
+2023-09-27 18:19:04 INFO Send test to element //*[@id="contact"]/div[1]/label/input
+2023-09-27 18:19:04 INFO Send test to element //*[@id="contact"]/div[2]/label/input
+2023-09-27 18:19:04 INFO Send test to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-09-27 18:19:04 INFO Click "CONTACT US" button
+2023-09-27 18:19:05 INFO We find err color label rgba(183, 28, 28, 1) when entered not valid email
