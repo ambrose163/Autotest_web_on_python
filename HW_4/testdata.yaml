@@ -1,0 +1,17 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+wait_time: 3
+login: SemDevTools
+password: 860f2c1b77
+post_title: My Post
+post_description: Ivanov Dmitriy
+post_content: Selenium Web Driver
+mail_password: EsghpW0sS5fviU4yYMUP
+fromaddr_report: ivanov-d@mail.ru
+toaddr_report: ivandmtr@gmail.com
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+title_post_api: Title_API
+description_post_api: web_autotest_api
+content_post_api: Ivanov API
